@@ -1,2 +1,2 @@
 # SPROIDIPBOOTER
-PERL IP BOOTER SCRIPT
+Kullanımı perl sproidipbooter.pl ip port thread // Usage perl sproidipbooter.pl ip port threads
